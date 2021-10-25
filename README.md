@@ -1,4 +1,4 @@
-<h2 align="center">Hi, I'm Mak 👋</h2>
+<h2 align="center">Hi there 👋</h2>
 <br>
 
 - I’m currently working on ... some pet projects
